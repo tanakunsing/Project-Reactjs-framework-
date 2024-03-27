@@ -1,0 +1,204 @@
+
+    .headerlayout {
+        max-width: 1570px
+    }
+    .navberphk {
+        display: flex;
+        padding: 1rem;
+        justify-content: space-between;
+        background-color: white;
+        font-family: "Mitr", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+
+    .logoimage {
+        width: 20%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .datsdw {
+        margin-right: 2rem;
+        align-items: center;
+        display: flex;
+        color: rgb(13, 28, 99);
+    }
+    .datsdw a {
+        color: rgb(13, 28, 99);
+        text-decoration: none;
+        align-items: center;
+        margin-left: 16px;
+    }
+ 
+    .datsdw_butto a{
+        text-decoration: none;
+        font-family: "Mitr", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        border: 1px outset black;
+        height: 44px;
+        width: 85px;
+        color: white;
+        background-color: rgb(13, 28, 99);
+    }
+
+    .disbottom {
+        padding: 2rem;
+        max-width: 100%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+
+    }
+    .sizeScr {
+        max-width: 1390px;
+    }
+    .saleService {
+       
+    }
+  
+    .homeslae{
+       
+        background-color: white;
+        padding: 20px 0px 40px 0px;
+
+    }
+    .homeslae_in {
+        padding: 0px 0px 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+         height: 40px;
+    }       
+    .text_box{
+       
+    }
+    .image_for_details{
+        position: absolute;
+        width: 489px;
+        /* height: 160px; */
+        margin-left: 64%;
+        margin-top: 20%;
+    }
+    .image_for_details2{
+        position: absolute;
+        width: 299px;
+        height: 205px;
+        margin-top: 9.6%;
+        margin-right: 968px;
+    }
+    .detail_next h1{
+        font-size: small;
+    }
+    .displalys_shw {
+      
+    }
+    .in_displalys {
+        padding: 2rem;
+        display: flex;
+      
+        justify-content: center;
+        align-items: center;
+        height: 250px;
+        max-width: 100%;
+    }
+    .in_displalys img {
+
+        border-radius: 50px;
+        max-width: 100%;
+        height: 100px;
+       
+    }
+    .ins_displalys {
+        max-width: 100%;
+        display: block;
+        margin-right: 24px;
+    }
+    .homedetail {
+        
+        max-width: 1560px;
+        height: 200px;
+    }
+    .context_ins{
+        padding: 1rem;
+        max-width: 100%;
+        text-align: center;
+    }
+    .image_header{
+        max-width: 100%;
+        height: 250px;
+    }
+    .context_ins h4{
+        font-size: 16px;
+        font-family: "Mitr", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .content_hw{
+        max-width: 1592px;
+        padding: 2rem;
+   
+    }
+    .context_ins p{
+        font-size: 12px;
+    }
+    .in_content_hw{
+        padding: 2rem;
+    }
+    .layout_content{
+        display: flex;
+    }
+    .header_content_text{
+     
+        display: flex;
+        height: 50px;
+        align-items: baseline;
+        border: 1px outset rgb(111, 111, 111);
+        padding: 10px 0px 10px 0px;
+    }
+
+    .header_content_text h1 {
+        font-size: 19px;
+        font-family: "Mitr", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .text_box_content2{
+        width: 350px;
+        margin-right: 88px;
+    }
+    .text_box_content2 h1{
+     font-size: 14px;
+     font-weight: bold;
+     font-family: "Mitr", sans-serif;
+     font-weight: 400;
+    font-style: normal;
+    color: rgb(13, 28, 99);
+    padding: 5px 0px 5px 0px;
+    }
+    .text_box_content2 p{
+        font-size: 12px;
+        
+    }
+  .Breadcrumb_header{
+    padding: 35px 0px 0px 0px;
+    margin: 0;
+  }
+
+  .filter_box{
+    border-radius: 5px;
+    font-size: 14px;
+    border: 1px solid rgb(220 220 220);
+    background-color: transparent;
+    color: #2778c4;
+  }
+  
+
+    
+  
